@@ -1,9 +1,8 @@
 # Gabriel Efsits's first CS193 Lab
 
 ## Favorite Things About Purdue CS193
--Taking CS193 gets me closer to having a degree.
-
--CS193 is going to teach me how to use text editors and GitHub
+- Taking CS193 gets me closer to having a degree.
+- CS193 is going to teach me how to use text editors and GitHub
 
 ## Welcome to GitHub Pages
 
@@ -20,7 +19,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### 
+### Header 3
 
 - Bulleted
 - List
