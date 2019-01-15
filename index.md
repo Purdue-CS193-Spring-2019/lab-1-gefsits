@@ -1,3 +1,9 @@
+#Gabriel Efsits's first CS193 Lab
+
+##Favorite Things About Purdue CS193
+-Taking CS193 gets me closer to having a degree
+-CS193 is going to teach me how to use text editors and GitHub
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -13,7 +19,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### dork fart
+### 
 
 - Bulleted
 - List
